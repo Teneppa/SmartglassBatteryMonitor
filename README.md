@@ -32,6 +32,8 @@ A really simple battery level monitor for Raspberry Pi with an Arduino Pro Mini
 | GND | Other end of the 10k resistor |
 | +BAT | Other end of the 5.1k resistor
 
+![Voltage divider schematic](voltage_divider.jpg)
+
 #### How to use the autoshutdown.py:
 * Make sure that the firmware works as expected with the `run.py`
 * Go edit /etc/rc.local with `sudo nano /etc/rc.local`
