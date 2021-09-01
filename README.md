@@ -1,5 +1,5 @@
 # SmartglassBatteryMonitor
-A really simple battery level monitor for Raspberry Pi with an Arduino Pro Mini
+A really simple battery level monitor for Raspberry Pi Zero W with an Arduino Pro Mini
 
 ### Programs:
 * Python3 - autoshutdown.py - If the voltage is lower than the treshold, the Pi will be shut down
@@ -12,11 +12,11 @@ A really simple battery level monitor for Raspberry Pi with an Arduino Pro Mini
 
 #### Hardware:
 * Arduino
-* Raspberry Pi
+* Raspberry Pi Zero W
 * 5.1 k resistor
 * 10 k resistor
 
-#### Pinout (Between the Raspberry Pi & Arduino):
+#### Pinout (Between the Raspberry Pi Zero W & Arduino):
 | Arduino pin   | Raspberry Pi Pin |
 | ------------- | ------------- |
 | VCC | 3V3 |
