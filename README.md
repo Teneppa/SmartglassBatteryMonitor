@@ -19,7 +19,6 @@ A really simple battery level monitor for Raspberry Pi Zero W with an Arduino Pr
 #### Pinout (Between the Raspberry Pi Zero W & Arduino):
 | Arduino pin   | Raspberry Pi Pin |
 | ------------- | ------------- |
-| VCC | 3V3 |
 | TX  | UART0_TXD / GPIO14 |
 | RX  | UART0_RXD / GPIO15 |
 | VCC | 3V3 |
